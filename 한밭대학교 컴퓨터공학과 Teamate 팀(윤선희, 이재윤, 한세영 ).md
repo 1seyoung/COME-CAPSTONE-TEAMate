@@ -8,7 +8,7 @@
 - ### 팀프로젝트 기반 학습의 필요성
 	- 4차 산업혁명 시대 필요한 역량으로 비판적 사고, 창의성, 소통능력, 협업 능력이 강조되고 있음
 	- 문제 해결 역량과 협업 능력을 키우기 위한 교육 방법으로 문제 해결과정에서 일어나는 '학습' 에 집중하는 PBL 방식이 가장 효과적이라 알려짐
-		<img width="480" alt="image" src="https://user-images.githubusercontent.com/89440450/191400747-a410715d-eb6d-418e-9870-f7d332d525b4.png">
+			 <img width="480" alt="image" src="https://user-images.githubusercontent.com/89440450/191400747-a410715d-eb6d-418e-9870-f7d332d525b4.png">
 
 
 - ### 기존 팀 프로젝트 기반학습 운영의 문제점

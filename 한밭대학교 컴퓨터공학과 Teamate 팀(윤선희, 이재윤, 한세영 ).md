@@ -17,29 +17,17 @@
 	- 공정한 평가를 위해 다각도의 정보를 수집하는 것은 학습자와 교수자 모두에게 **업무적인 부담감**을 줌
 	- 장기간 진행되는 팀 프로젝트의 성겨고가 달리 성과 및 결론만 평가되기 때문에 **평가의 시의성 부족**
 
-> [!note] 따라서 제안하는 프로젝트는?
-> 대화 로그 기반 분석 알고리즘 TEAMate 와 자동적으로 데이터 수집을 하는 Data Crawling Telegram Chatbot 을 결합
-
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/89440450/191400790-687e3bb6-d8c7-4f4b-a152-2d3b8f012069.png">
-
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/89440450/191400896-4c940af8-462f-4786-a2ce-072753991eed.png">
 
 ## System Design
-![[Pasted image 20220921105527.png]]
+<img width="560" alt="Pasted image 20220921105527" src="https://user-images.githubusercontent.com/89440450/191400995-0cfb330c-20f6-4bce-86ff-8aea716a0740.png">
+
 - ### System Requirements
 	- 팀 프로젝트 데이터 자동 수집 → **Telegram API 이용**
 	- 높은 사용성 → **Telegram Chatbot Interface**
 	- 분석 과정 자동화 → **주기적으로 데이터 분석** 
 	- 소프트웨어가 교수자의 역할의 일부분을 대체 혹은 조교 역할
-
-> [!abstract] Main Function
-> **데이터 수집** 
-> ![[Pasted image 20220921110815.png]]
-> 
-> **평가 알고리즘**
-> ![[Pasted image 20220921110654.png]]
-> 
-> **분석 그래프 출력**
-> ![[Pasted image 20220921110727.png]]
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/89440450/191401172-2f6accb9-a1c3-4e4f-b6c4-6d841047d820.png">
 
 ## Casestudy
 - ### 1. 고교 진로 체험 프로그램
@@ -50,7 +38,7 @@
 	- ##### 2022 컴퓨터공학과 공학설계입문 수업 활용
 		- 데이터 수집 챗봇을 활용하여 어느 팀의 프로젝트에 이상이 있는지 검출
 		- 공지 및 성적 알림 기능 추가하여 조교 역할을 함
-		- ![[Pasted image 20220921111619.png]]
+		- <img width="170" alt="Pasted image 20220921111619" src="https://user-images.githubusercontent.com/89440450/191401211-236051a5-08b9-4f24-9967-8352ce69dbd8.png">
 		
 ## Conclusion
 - #### 기존의 팀 프로젝트의 문제점
@@ -68,7 +56,6 @@
 
 
 ## Poster v1
-![[Pasted image 20220921100624.png]]
 
 ## Poster v2
-![[Pasted image 20220921102750.png]]
+![Pasted image 20220921102750](https://user-images.githubusercontent.com/89440450/191401304-0e0cfd14-169f-4e8d-be8e-d4746231500f.png)

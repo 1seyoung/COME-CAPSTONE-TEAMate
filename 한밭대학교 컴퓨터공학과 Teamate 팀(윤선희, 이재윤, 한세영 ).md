@@ -1,4 +1,4 @@
-# 한밭대학교 컴퓨터공학과 ==Teamate== 팀 (윤선희, 이재윤, 한세영)
+# 한밭대학교 컴퓨터공학과 Teamate 팀 (윤선희, 이재윤, 한세영)
 **팀 구성**
 - 20171620 윤선희 
 - 20171622 이재윤 
@@ -8,7 +8,7 @@
 - ### 팀프로젝트 기반 학습의 필요성
 	- 4차 산업혁명 시대 필요한 역량으로 비판적 사고, 창의성, 소통능력, 협업 능력이 강조되고 있음
 	- 문제 해결 역량과 협업 능력을 키우기 위한 교육 방법으로 문제 해결과정에서 일어나는 '학습' 에 집중하는 PBL 방식이 가장 효과적이라 알려짐
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/89440450/191400747-a410715d-eb6d-418e-9870-f7d332d525b4.png">
+		<img width="480" alt="image" src="https://user-images.githubusercontent.com/89440450/191400747-a410715d-eb6d-418e-9870-f7d332d525b4.png">
 
 
 - ### 기존 팀 프로젝트 기반학습 운영의 문제점
@@ -38,7 +38,7 @@
 	- ##### 2022 컴퓨터공학과 공학설계입문 수업 활용
 		- 데이터 수집 챗봇을 활용하여 어느 팀의 프로젝트에 이상이 있는지 검출
 		- 공지 및 성적 알림 기능 추가하여 조교 역할을 함
-		- <img width="170" alt="Pasted image 20220921111619" src="https://user-images.githubusercontent.com/89440450/191401211-236051a5-08b9-4f24-9967-8352ce69dbd8.png">
+		<img width="170" alt="Pasted image 20220921111619" src="https://user-images.githubusercontent.com/89440450/191401211-236051a5-08b9-4f24-9967-8352ce69dbd8.png">
 		
 ## Conclusion
 - #### 기존의 팀 프로젝트의 문제점
@@ -56,6 +56,6 @@
 
 
 ## Poster v1
-![dsfss](https://user-images.githubusercontent.com/89440450/191401568-5d0f52cb-5c05-4e2d-88d2-9918e8f8d39a.png)
+![dfsdfa](https://user-images.githubusercontent.com/89440450/191401634-3c5f220c-86ee-4d25-96ce-0110e59a1e4f.png)
 ## Poster v2
 ![Pasted image 20220921102750](https://user-images.githubusercontent.com/89440450/191401304-0e0cfd14-169f-4e8d-be8e-d4746231500f.png)

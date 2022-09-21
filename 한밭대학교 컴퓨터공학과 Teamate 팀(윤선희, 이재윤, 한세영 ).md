@@ -56,7 +56,6 @@
 
 
 ## Poster v1
-![dsfss](https://user-images.githubusercontent.com/89440450/191401465-4d3aa949-f25b-46fd-8d37-bad99c5aa01c.png)
-
+![dsfss](https://user-images.githubusercontent.com/89440450/191401568-5d0f52cb-5c05-4e2d-88d2-9918e8f8d39a.png)
 ## Poster v2
 ![Pasted image 20220921102750](https://user-images.githubusercontent.com/89440450/191401304-0e0cfd14-169f-4e8d-be8e-d4746231500f.png)

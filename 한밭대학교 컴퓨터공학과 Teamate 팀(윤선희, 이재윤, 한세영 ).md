@@ -3,6 +3,8 @@
 - 20171620 윤선희 
 - 20171622 이재윤 
 - 20171631 한세영
+**캡스톤포스터 발표날 **
+![image](https://user-images.githubusercontent.com/89440450/191407197-89c517fe-4717-4204-b322-a8c3b2436180.png)
 
 ## <u>Teamate</u> Project Background
 - ### 팀프로젝트 기반 학습의 필요성

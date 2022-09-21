@@ -59,4 +59,4 @@
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/89440450/191401939-f8e6405a-6f15-40ce-9e61-3ac5b36ed1d1.png">
 
 ## Poster v2
-![Pasted image 20220921102750](https://user-images.githubusercontent.com/89440450/191401304-0e0cfd14-169f-4e8d-be8e-d4746231500f.png)
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/89440450/191402038-42a07232-93b7-41cf-8073-8442e23114df.png">

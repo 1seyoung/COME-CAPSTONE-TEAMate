@@ -52,10 +52,11 @@
 
 ## 프로젝트 성과
 - ### 2021 년 공학교육학술대회 참가
-![[Pasted image 20220921111729.png]]
+<img width="825" alt="Pasted image 20220921111729" src="https://user-images.githubusercontent.com/89440450/191401366-6a687da1-440a-4464-8d47-8a3494bbd485.png">
 
 
 ## Poster v1
+![dsfss](https://user-images.githubusercontent.com/89440450/191401465-4d3aa949-f25b-46fd-8d37-bad99c5aa01c.png)
 
 ## Poster v2
 ![Pasted image 20220921102750](https://user-images.githubusercontent.com/89440450/191401304-0e0cfd14-169f-4e8d-be8e-d4746231500f.png)

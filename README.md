@@ -30,7 +30,7 @@
 	- 소프트웨어가 교수자의 역할의 일부분을 대체 혹은 조교 역할
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/89440450/191401172-2f6accb9-a1c3-4e4f-b6c4-6d841047d820.png">
 
-## Casestudy
+## Case Study
 - ### 1. 고교 진로 체험 프로그램
 	- ##### ICT 협업 도구를 활용한 고교 진로 체험 프로그램 진행
 		- 고등학생 3~4 명을 팀으로 묶어 팀 별로 프로젝트 진행
